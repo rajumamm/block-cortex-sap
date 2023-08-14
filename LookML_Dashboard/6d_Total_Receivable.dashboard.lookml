@@ -1,5 +1,5 @@
 - dashboard: total_receivable
-  title: "Accounts Receivable - Total Receivables"
+  title: "Accounts Receivable - Total Receivables_RajuMamm"
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''

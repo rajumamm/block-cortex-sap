@@ -1,5 +1,5 @@
 - dashboard: sap_order_to_cash_o2c_05_billing_and_pricing
-  title: "Sales Billing and Pricing"
+  title: "Sales Billing and Pricing_RajuMamm"
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
