@@ -43,7 +43,7 @@ view: sales_order_partner_function {
   dimension: client_mandt {
     type: string
     sql: ${TABLE}.Client_MANDT ;;
-    primary_key: yes
+    primary_key: no
   }
 
   dimension: country_land1 {
@@ -64,7 +64,7 @@ view: sales_order_partner_function {
   dimension: customer_kunnr {
     type: string
     sql: ${TABLE}.Customer_KUNNR ;;
-    primary_key: yes
+    primary_key: no
     hidden: no
   }
 
@@ -110,7 +110,7 @@ view: sales_order_partner_function {
   dimension: item_posnr {
     type: string
     sql: ${TABLE}.Item_POSNR ;;
-    primary_key: yes
+    primary_key: no
   }
 
   dimension: level_number_within_hierarchy_histunr {
